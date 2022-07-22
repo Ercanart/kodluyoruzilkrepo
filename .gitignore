@@ -5,6 +5,4 @@
 .vscode/extensions.json
 .vscode/*.code-snippets
 
-*.jpg
-*.png
 imagesltr/
